@@ -7,9 +7,14 @@ I am a Data Analyst specializing in **Football Recruitment & Performance Analyti
 ---
 
 ## 🛠 My Scouting Tech Stack
-- **Languages:** `Python (Pandas, NumPy, Scikit-Learn)`, `SQL`
-- **Methodologies:** Expected Metrics (xG, xA), Predictive Player Modeling, Regression Analysis
-- **Tools:** GitHub Actions (for automation), Matplotlib/Seaborn (for visualization)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+- **Methodologies:** Expected Metrics (xG, xA), Predictive Player Modeling, Regression Analysis.
+- **Visualization:** Matplotlib, Seaborn, Tableau.
 
 ---
 

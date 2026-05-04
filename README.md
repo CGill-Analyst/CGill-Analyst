@@ -1,16 +1,34 @@
-## Hi there 👋
+# ⚽️ Charlie Gill | Sports Data Analyst
 
-<!--
-**CGill-Analyst/CGill-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "Turning raw match data into a competitive advantage."
 
-Here are some ideas to get you started:
+I am a Data Analyst specializing in **Football Recruitment & Performance Analytics**. I build automated tools that bridge the gap between complex data science and scouting intuition, focusing on identifying undervalued talent in the European U23 market.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 My Scouting Tech Stack
+- **Languages:** `Python (Pandas, NumPy, Scikit-Learn)`, `SQL`
+- **Methodologies:** Expected Metrics (xG, xA), Predictive Player Modeling, Regression Analysis
+- **Tools:** GitHub Actions (for automation), Matplotlib/Seaborn (for visualization)
+
+---
+
+## 🚀 Featured Projects
+
+### [Football-Scouting-ML](https://github.com/CGill-Analyst/Football-Scouting-ML)
+An automated recruitment engine that identifies "Hidden Gems" in the U23 market using a **Random Forest Regressor**.
+- **Impact:** Detects players overperforming their technical baseline across Top 5 European leagues.
+- **Tools:** Python, Machine Learning, Automated CSV Reporting.
+
+### [Brentford-Analytics-Automation](https://github.com/CGill-Analyst/Brentford-Analytics-Automation)
+An ETL pipeline designed to scrape, clean, and analyze Premier League performance data.
+- **Focus:** Building efficient data flows for rapid talent research.
+
+---
+
+## 📫 Let's Connect
+- 📧 **Email:** [charliegill1999@gmail.com](mailto:charliegill1999@gmail.com)
+- 📍 **Based in:** United Kingdom
+- 📈 Always looking for new ways to optimize the "Moneyball" approach in modern football.
+
+---

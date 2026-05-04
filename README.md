@@ -37,3 +37,5 @@ An ETL pipeline designed to scrape, clean, and analyze Premier League performanc
 - 📈 Always looking for new ways to optimize the "Moneyball" approach in modern football.
 
 ---
+
+![Snake animation](https://github.com/CGill-Analyst/CGill-Analyst/blob/output/github-snake-dark.svg)
